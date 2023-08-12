@@ -1,0 +1,7 @@
+# Loan_Amount_Dashboard_PowerBi![Screenshot (175)](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/f0877f37-c53f-472a-bca7-ccbb486eba03)
+![Loan Amount Dashboard](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/672ccd47-2d60-49ed-84e2-8c5ea21d9b66)
+![Screenshot (175)](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/bfae1bcf-0db1-47a3-a668-0d735352d53d)
+![Screenshot (176)](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/c63466ab-7ff3-491a-98d6-d65b3c30522c)
+![Uploading Screenshot (176).png…]()
+![Screenshot (175)](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/f3e4788f-6b06-4641-bd49-fb85ca1d1845)
+![Screenshot (177)](https://github.com/SathwikBhat/Loan_Amount_Dashboard_PowerBi/assets/141931631/f78403b4-815a-424a-90e7-e389147014c7)
